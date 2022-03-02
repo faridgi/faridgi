@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [faridportfolio.fr](faridportfolio.fr)
 
-- 💬 Ask me about **php,symfony5 and MYSQL**
+- 💬 Ask me about **php/symfony5 and MYSQL**
 
 - 📫 How to reach me **faridtah97@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
