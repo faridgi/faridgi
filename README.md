@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farid</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-- 💬 Ask me about **php/symfony5 and MYSQL**
+- 💬 Ask me about **php/symfony and MYSQL**
 
 - 📫 How to reach me **faridtah97@gmail.com**
 
